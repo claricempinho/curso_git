@@ -12,3 +12,4 @@ git estou aqui
 alteração para o primeiro comite
 OI EU NOVAMENTE 
 APRENDENDO GUIT
+Alterei
